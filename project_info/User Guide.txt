@@ -8,12 +8,14 @@ I designed this program using:
 --> Pillow 7.2.1 (latest version)
 --> Python 3.8 
 
+Please boot the program from the AA_Main_Menu.py file.
+
 (0) Introduction
 
 This guide will be kept brief because a lot of explanation is provided within the code itself using doc strings and comments. While reading this guide, please refer to the picture 'program_structure.png' in the current directory. The colours indicate the class in which the options / functions are present. E.g., encryption, decryption and locking files (so they are un-deletable) are separate objects while delete file, rename file, and preview file are kept at the file manipulation menu level.
 
 
-(1) Main Menu
+(1) Main Menu 
 
 Upon booting the program, the user is confronted with all files and directories within the current directory. When one makes adjustments to files (e.g., renaming or deleting them), changes will only appear after using the "REFRESH BUTTON". However, the possible FileNotFoundErrors associated with trying to manipulate an altered file before hitting the refresh button are accounted for in the program. 
 
@@ -39,7 +41,7 @@ A second limitation is the ~ max 1200 bytes file limit. Messages should be small
 
 (3.3) Renaming files
 
-The coding behind this functionality is actually more extensive than one might think. It checks for double names in the directory. It also makes sure that no illegal characters are used.   
+The coding behind this functionality is actually more extensive than one might think. It checks for double names in the directory. It also makes sure that no illegal characters are used. When your press rename file, you get to enter the new name (excluding format extensions) in the second entry box. Then, you use the button 'rename' to actually go through with renaming it. For some reason, on MACOS the colours for buttons don't work whilst they do work on Windows. So the buttons is not as vivid for MAC users.    
 
 (3.4) Preview files
 

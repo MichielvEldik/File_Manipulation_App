@@ -292,7 +292,7 @@ class FileManipulation(Frame):
 
         # Button pops up to permanently change the file name change
         Button(
-            self.popup, text="Rename", bg='red', command=lambda: apply_new_name(self.e_two.get(), ending)
+            self.popup, text="PRESS HERE TO RENAME", bg='red', command=lambda: apply_new_name(self.e_two.get(), ending)
         ).pack(side=TOP, expand=True, fill=BOTH)
 
     def return_to_main(self):
