@@ -1,0 +1,24 @@
+A brief Reflection on the LC
+
+
+First and foremost, I'd like to say that what I've learned during the LC is not strictly limited to the tangible content of the LC. The LC has provided me with great fundamental knowledge of coding which has inspired and enabled me to learn more about computer science during my 'free-time'. 
+
+Although I always felt an urge to find out more about CompSci - especially after internship/work at technology-oriented firms - however, I always felt sort of overwhelmed and confused by everything there is to know at once. 
+
+The world of IT and CompSci is so dynamic and extensive, that a total beginner is overwhelmed and has trouble finding the right starting point. For me, it's difficult to distinguish the relevant from the irrelevant information at that point.
+
+The learning community provided me with the scope and the structure to cross the initial learning curve and become self-sufficient. I mean that in the sense that when I encounter a problem, or I want to learn something new, I actually know where to look and what to look for whereas I used to have no clue at all. I think that's why this learning community for Python in particular is so valuable: The fundamentals take some time to wrap your head around but imperative to further improvement.
+
+All I know is that I will certainly continue with programming and CompSci. I find it fascinating, also the lower-level stuff like program optimising and underlying mathematical concepts and algorithms. Nevertheless, my goal for now is to develop strong Python skills before considering any other programming languages.
+
+A special thanks to Vincent Velthuizen.
+
+Regards,
+
+Michiel van Eldik
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+Additional Features
+
+(0) Compression
+
+Starting out with this project, I got really into lossless text compression. After learning about the basic concept of compression, I tried to make up an algorithm of my own. Although it failed miserably, I liked the intellectual challenge. After getting into it some more I started considering to implement a Huffman encoding algorithm into my program. I have looked at some tutorials and some GitHub repositories and realised this would consume quite some time. Moreover, I got the impression that not a lot of people are trying to do this in Python, making good quality information on sites like Github, Youtube, and StackOverflow limited. I saw that as a second risk and steered away from this project. I will, for sure, revisit it at some point!
+
+
+(1) Encryption / Decryption
+
+Although I would love to get into the lower level particularities of encryption (it's fascinating frankly) I decided to use a library instead. Nonetheless in my research I already learned a lot about encryption. It also gave me an idea of the enormous capabilities of Python. With basic knowledge, I managed to implement a very powerful encryption method into my program, for free, within a couple of hours! That amazes me.
+
+
+
+(2) Dealing with subfolders
+
+Even files in sub-sub-sub-sub folders are handled smoothly in my program and it only required one class that calls itself. 
+
+
+(3) Error Handling
+
+Handling errors was one of my top priorities during this project. I spent a lot of time on testing different usage patterns to discover errors. I would rather spent three hours on error handling and making the program air-tight, than add some fancy new functionality from a third-party library. I wanted my program to be simple but robust. Whether or not it really is robust, I'm not sure. But I tried to make it so as much as possible.
+
+

@@ -1,0 +1,12 @@
+Design Choice's in the software 
+
+I have tried to take an OOP approach as much as possible and through this, learned a lot about OOP. However, not all things in my code are perhaps as OOP as they could be. 
+
+The preview file, delete file, and rename file are all kept in the same class as the file manipulation menu. This is because the delete file and rename file actually come with relatively more back and forth between the user and the program and are also relatively small. In my opinion, there was no added benefit of translating these into separate classes. However, my opinion could always be wrong of course. Because at approx. 300 lines of code, File Manipulation is quite a long class.
+
+
+My main empahsis for this project was to write clean, stable, and Pythonic code. There are mainly two reasons: 
+
+1. I learned that every language is meant to be used in a certain way. I think Python is all about simplicity and abstraction so one can focus on more complex problems. I discovered that Python has lots of interesting methods that can shorten your code. For this and future projects, I want to take this into account when considering an approach to solving a problem.
+
+2. Also, I'm just a beginner and even simple things still confuse me from time to time. By using docstrings and comments and having functions make logical sense, I managed to actually come up with solutions far more efficiently than before. Writing clean code is not rocket science. Basically, I learned that doing these easy things can save me effort in the long run and actually make me better at solving complex things.  
