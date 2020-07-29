@@ -1,5 +1,8 @@
 # Michiel_Advanced_Project
-Final version of Python LC advanced project.
+From Febuary to June I was involved in 'Programming with Python Learning Community Advanced track'. 
+This is an extracurricular activity at the university to get acquainted with Python and software development.
+We had to construct software that could handle files and perform certain manipulations to them. 
+It was up to us to come up with useful functions for the software.
 
 User's guide
 
