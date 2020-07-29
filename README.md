@@ -9,7 +9,9 @@ It was up to us to come up with useful functions for the software. The various f
 I designed this program using:
 
 --> pycrypto 2.6.1 (latest version)
+
 --> Pillow 7.2.1 (latest version)
+
 --> Python 3.8 
 
 Please boot the program from the AA_Main_Menu.py file.
